@@ -12,14 +12,14 @@ Result Analysis: The evaluation results are saved to a CSV file (102117159model_
     
 Visualization: A bar graph is generated to visually compare the performance of the models based on the evaluation parameters.
   
-The following pretrained models from Hugging Face are used in this project:
-  BERT (bert-base-uncased, bert-base-cased)
-  RoBERTa (roberta-base)
-  DistilBERT (distilbert-base-uncased)
-  XLNet (xlnet-base-cased)  
-The models are evaluated based on the following parameters:
-  Coherence
-  Engagement
-  Relevance
+The following pretrained models from Hugging Face are used in this project:  
+  BERT (bert-base-uncased, bert-base-cased)  
+  RoBERTa (roberta-base)  
+  DistilBERT (distilbert-base-uncased)  
+  XLNet (xlnet-base-cased)    
+The models are evaluated based on the following parameters:  
+  Coherence  
+  Engagement  
+  Relevance  
   Understandability  
 The bar graph visualizes the performance of the pretrained models based on the evaluation parameters. Each bar represents a pretrained model and the height of the bar indicates the score for each parameter.
